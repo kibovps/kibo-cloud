@@ -1,0 +1,6 @@
+{
+  "name": "Kibo VPS Cloud",
+  "description": "Explorador y organizador de archivos con reproductor multimedia para videos, audio, imágenes, PDF y documentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

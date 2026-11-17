@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kibo VPS Cloud</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_explorer">Explorar</string>
+    <string name="nav_collections">Organizar</string>
+    <string name="action_search">Buscar archivos</string>
+    <string name="action_import_media">Importar multimedia</string>
+    <string name="action_import_docs">Importar documentos</string>
+    <string name="action_link_folder">Vincular carpeta</string>
+    <string name="action_new_folder">Nueva carpeta</string>
+    <string name="action_new_note">Nuevo documento</string>
+    <string name="action_open_external">Abrir con app externa</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_favorite">Favorito</string>
+    <string name="action_collections">Colecciones</string>
+    <string name="action_rename">Renombrar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_move">Mover</string>
+    <string name="action_copy">Copiar</string>
+    <string name="action_paste_here">Pegar aquí</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_confirm">Confirmar</string>
+    <string name="action_save">Guardar</string>
+    <string name="empty_folder_title">Carpeta vacía</string>
+    <string name="empty_folder_subtitle">Agrega carpetas, importa videos, fotos o documentos desde tu dispositivo.</string>
+    <string name="vault_name">Bóveda Local</string>
+    <string name="vault_subtitle">Espacio privado organizado</string>
+    <string name="no_external_app">No se encontró una aplicación instalada para abrir este tipo de archivo.</string>
+</resources>
